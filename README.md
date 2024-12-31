@@ -16,12 +16,6 @@ poetry install
 poetry shell
 ```
 
-### Running Script
-
-```
-python3 app/00_hello_world.py
-```
-
 ## Setting up the environment
 
 ```
